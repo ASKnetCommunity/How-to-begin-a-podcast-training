@@ -38,15 +38,7 @@ By the end of this OER, learners will be able to:
 4. [Creating Engaging Content](#creating-engaging-content)
     1. [Episode Planning](#episode-planning)
     2. [Guest Collaboration](#guest-collaboration)
-5. [Promoting Your Podcast](#promoting-your-podcast)
-    1. [Social Media Marketing](#social-media-marketing)
-    2. [Local Partnerships](#local-partnerships)
-6. [Measuring the Impact](#measuring-the-impact)
-    1. [Audience Metrics](#audience-metrics)
-    2. [Community Feedback](#community-feedback)
-7. [Sustaining and Scaling Your Podcast](#sustaining-and-scaling-your-podcast)
-8. [Ethical Considerations and Best Practices](#ethical-considerations-and-best-practices)
-9. [Conclusion](#conclusion)
+
 
 ---
 
