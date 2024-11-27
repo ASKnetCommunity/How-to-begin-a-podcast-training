@@ -56,10 +56,10 @@ An example of a successful community podcast might be one that focuses on local 
 ---
 
 ## **Tools & Materials**
-- **Recording Equipment**: Microphone (USB or XLR), pop filter, and headphones.
-- **Editing Software**: Audacity (free), Adobe Audition (paid), or GarageBand (for Mac users).
-- **Podcast Hosting**: Anchor, Podbean, or Libsyn.
-- **Social Media Tools**: Canva for graphic design, Buffer or Hootsuite for scheduling posts.
+- **Recording Equipment**: Microphone (zoom 8), pop filter, and headphones.
+- **Editing Software**: Audacity (free), Adobe Enhance Podcast (free),
+- **Podcast Hosting**: Anchor, Soundcloud
+- **Social Media Tools**: Canva for graphic design
 
 ---
 
@@ -69,11 +69,17 @@ An example of a successful community podcast might be one that focuses on local 
    - **Choose Your Topic**: Identify a subject that resonates with your community.
    - **Identify Your Audience**: Understand who you want to reach and their interests.
    - **Decide on the Format**: Will you have guests? Is it a solo podcast or interview-based?
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/29fd89c5-1664-4f09-8a86-1200244f7197" width="45%" alt="Image 1">
+  <img src="https://github.com/user-attachments/assets/69288ea5-b1b5-4803-bd72-36cf3363ed12" width="45%" alt="Image 2">
+</div>
 
 ### 2. **Recording and Editing**
    - **Set Up Your Equipment**: Ensure your microphone and headphones are correctly configured.
    - **Record Your Episode**: Use your chosen software to record your content.
    - **Edit for Clarity**: Trim excess audio, remove background noise, and add music or transitions.
+![Screenshot (5)](https://github.com/user-attachments/assets/3c382f1f-13e3-41ee-8e5c-6450624fd66a)
+<p align="center"><em>The interface of Audacity (The recording and editing software)</em></p>
 
 ### 3. **Publishing and Promoting**
    - **Upload to a Hosting Platform**: Choose a platform that suits your needs for distribution.
@@ -81,6 +87,8 @@ An example of a successful community podcast might be one that focuses on local 
    - **Collaborate with Local Influencers**: Work with local organizations to amplify your reach.
 
 ---
+![Screenshot (6)](https://github.com/user-attachments/assets/3a008f17-b453-45bd-b5d8-682cb27c843f)
+<p align="center"><em>Some of the podcast hosting social platforms</em></p>
 
 
 
