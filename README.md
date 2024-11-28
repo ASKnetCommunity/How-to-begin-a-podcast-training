@@ -26,7 +26,7 @@ By the end of this OER, learners will be able to:
 
 ## **Table of Contents**
 
-1. [Introduction to Community Podcasts](#introduction-to-community-podcasts)
+1. [Introduction to Community Podcasts](#Introduction-to-community-podcasts)
 2. [Planning Your Community Podcast](#planning-your-community-podcast)
     1. [Choosing Your Podcast Topic](#choosing-your-podcast-topic)
     2. [Defining Your Audience](#defining-your-audience)
