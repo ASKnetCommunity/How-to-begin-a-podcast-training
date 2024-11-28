@@ -1,5 +1,5 @@
 
-# Podcasting Equipment Table
+# Podcasting recording Equipment
 
 | **Equipment**                      | **Price (USD)** | **Photo**                                                                                      | **Use**                                                          |
 |------------------------------------|-----------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------|
@@ -10,3 +10,4 @@
 | **Zoom H6 (Portable Recorder)**    | $280            | ![Zoom H6](https://github.com/user-attachments/assets/67908ed2-ab99-43af-bd5d-56a66aceccf9)    | Records audio on-the-go with multiple input options.            |
 | **Pop Filter**                     | $15             | ![Pop Filter](https://github.com/user-attachments/assets/abbebd33-10af-468b-9391-584a41691156) | Reduces plosive sounds for a cleaner audio recording.           |
 
+# Editing Software
