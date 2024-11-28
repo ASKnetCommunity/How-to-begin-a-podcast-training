@@ -32,7 +32,7 @@ By the end of this OER, learners will be able to:
     2. [Defining Your Audience](#defining-your-audience)
     3. [Podcast Format and Structure](#podcast-format-and-structure)
 3. [Tools and Materials for Podcasting](Tools%20and%20Materials%20for%20Podcasting.md)
-    1. [Recording Equipment](#recording-equipment)
+    1. [Recording Equipment]([#recording-equipment](https://github.com/WeAreYEF/How-to-begin-a-podcast-training/blob/main/Tools%20and%20Materials%20for%20Podcasting.md#podcasting-software))
     2. [Editing Software](#editing-software)
     3. [Podcast Hosting Platforms](#podcast-hosting-platforms)
 4. [Creating Engaging Content](#creating-engaging-content)
