@@ -43,7 +43,8 @@ By the end of this OER, learners will be able to:
 ---
 
 ## **Resource Example**
-An example of a successful community podcast might be one that focuses on local news, events, and interviews with community leaders or residents. The podcast could highlight positive stories and community-driven projects, helping to connect people with local resources and opportunities.
+An example of a successful community podcast might be one that focuses on stories of resilience, growth and impact including entertaining the public with educative and informative content. The podcast could highlight positive stories and community-driven projects, helping to connect people with local resources and opportunities.
+
 
 ---
 
