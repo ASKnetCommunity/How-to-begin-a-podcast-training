@@ -11,3 +11,20 @@
 | **Pop Filter**                     | $15             | ![Pop Filter](https://github.com/user-attachments/assets/abbebd33-10af-468b-9391-584a41691156) | Reduces plosive sounds for a cleaner audio recording.           |
 
 # Editing Software
+
+Here’s a comparative table for podcasting software, including their logos, features, and costs:
+
+---
+
+# Podcasting Software Comparison
+
+| **Software**        | **Logo**                                                                                  | **Key Features**                                                                                      | **Cost**                       |
+|----------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------|
+| **Audacity**         | ![Audacity Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Audacity_Logo_2021.svg) | - Free and open-source. <br> - Multitrack editing. <br> - Suitable for beginners and professionals.   | Free                           |
+| **GarageBand**       | ![GarageBand Logo](https://upload.wikimedia.org/wikipedia/commons/c/c7/Apple_GarageBand_logo.svg) | - Preloaded on macOS. <br> - User-friendly interface. <br> - Ideal for beginners.                     | Free (macOS only)              |
+| **Adobe Audition**   | ![Adobe Audition Logo](https://upload.wikimedia.org/wikipedia/commons/5/5f/Adobe_Audition_CC_icon.svg) | - Industry standard. <br> - Advanced noise reduction. <br> - Extensive effects and editing tools.     | $20.99/month (as part of Adobe CC) |
+| **Reaper**           | ![Reaper Logo](https://upload.wikimedia.org/wikipedia/commons/7/76/REAPER_logo.svg)        | - Lightweight and highly customizable. <br> - Multitrack editing. <br> - Affordable and feature-rich. | $60 (discount license)         |
+| **Hindenburg Journalist** | ![Hindenburg Logo](https://upload.wikimedia.org/wikipedia/commons/5/57/Hindenburg_Logo.png) | - Tailored for podcasting and journalism. <br> - Easy-to-use interface. <br> - Automatic leveling.    | $95 (basic version)            |
+| **Anchor by Spotify**| ![Anchor Logo](https://upload.wikimedia.org/wikipedia/commons/3/36/Anchor_Spotify_Logo.svg) | - Free hosting and distribution. <br> - In-app editing tools. <br> - Monetization options.            | Free                           |
+
+---
