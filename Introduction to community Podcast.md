@@ -43,7 +43,7 @@ For example, if you’re addressing teenage pregnancy in refugee settlements, yo
 You’ll need:
 - A recording device (smartphone, computer, or a dedicated microphone).  
 - Audio editing software (e.g., Audacity or Adobe Audition).  
-- Hosting platforms (e.g., Anchor, Spotify, or Podbean).
+- Hosting platforms (e.g., Anchor, Spotify, or [Soundcloud](https://soundcloud.com/discover)).
 
 ### **Step 4: Record and Edit**
 - Choose a quiet location for recording to ensure good audio quality.
