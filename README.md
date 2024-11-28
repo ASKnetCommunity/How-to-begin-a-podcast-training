@@ -31,7 +31,7 @@ By the end of this OER, learners will be able to:
     1. [Choosing Your Podcast Topic](#choosing-your-podcast-topic)
     2. [Defining Your Audience](#defining-your-audience)
     3. [Podcast Format and Structure](#podcast-format-and-structure)
-3. [Tools and Materials for Podcasting](#tools-and-materials-for-podcasting)
+3. [Tools and Materials for Podcasting](Tools%20and%20Materials%20for%20Podcasting.md)
     1. [Recording Equipment](#recording-equipment)
     2. [Editing Software](#editing-software)
     3. [Podcast Hosting Platforms](#podcast-hosting-platforms)
