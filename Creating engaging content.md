@@ -18,9 +18,8 @@ Creating an engaging community podcast involves connecting with your audience, f
 | **Create Value**            | Offer actionable insights, resources, or entertainment to keep them returning.  |
 
 ### Chart: Benefits of Listener Engagement
+<img src="https://github.com/user-attachments/assets/d2edb994-6501-41d7-9ac0-a547ceccb8ab" alt="Benefits of listeners Engagement chart" width="400">
 
-<img src= "https://www.mermaidchart.com/raw/7d2cc4cd-6aaa-4131-9e59-d15fd4692dff?theme=light&version=v0.1&format=svg" alt="Podcast" width= "250">
-<img src="https://www.mermaidchart.com/raw/7d2cc4cd-6aaa-4131-9e59-d15fd4692dff?theme=light&version=v0.1&format=svg" alt="Podcast Structure Chart" width="450">
 
 
 
