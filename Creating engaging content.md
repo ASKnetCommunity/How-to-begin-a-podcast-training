@@ -90,16 +90,5 @@ Proper organization ensures a smooth flow and helps keep listeners engaged. Belo
 4. **Consistent Branding**: Use a recognizable podcast name, logo, and theme music.
 ```
 ### Flow Chart: Podcast Episode Structure
-### Flow Chart: Podcast Episode Structure
+<img src="https://www.mermaidchart.com/raw/384d05cb-cb74-4900-ba01-82324127c2bf?theme=light&version=v0.1&format=svg" alt="Podcast Structure Chart" width="450">
 
-1. **Introduction**  
-   ↓  
-2. **Personal Story or Hook**  
-   ↓  
-3. **Main Topic Discussion**  
-   ↓  
-4. **Expert/Guest Interview**  
-   ↓  
-5. **Listener Q&A or Feedback**  
-   ↓  
-6. **Call to Action & Conclusion**  
