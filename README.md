@@ -75,6 +75,14 @@ An example of a successful community podcast might be one that focuses on storie
 ![Screenshot (6)](https://github.com/user-attachments/assets/3a008f17-b453-45bd-b5d8-682cb27c843f)
 <p align="center"><em>Some of the podcast hosting social platforms</em></p>
 
+|BMZ  |r0g agency|ASKnet| YEF |
+|:----:|:-------:|:-----|:----:|
+|![](Images/founder_BMZ.jpg)|![](Images/r0g_logo.png)|![](Images/asknet-logo.png)|![](Images/yef-logo.jpeg)|
+|[Official website](https://www.bmz.de/en)|[Official website](https://openculture.agency/)|[Official website](https://github.com/ASKnet-Open-Training)|[Official website](https://yef-uganda.org/)|
+
+## **Credit**  
+This OER is a template created by the Youth Empowerment Foundation Under the ASKnet project (Mentor Her) that aims to empower women with different skills to make them self relient and exposed to the world of technology. The training was facilitated by  [Amoko Joseph](https://lead.asknet.community/profiles/Amoko-Joseph/ ) 
+This training was implemented by Youth Empowerment Foundation in collaboration with Creative Innovative Center (CIC). This project is supported by r0g agency Germany.
 
 
 
