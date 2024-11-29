@@ -19,16 +19,10 @@ Creating an engaging community podcast involves connecting with your audience, f
 
 ### Chart: Benefits of Listener Engagement
 
-```plaintext
-Engagement Benefits:
-Audience Growth: ██████████ 85%
-Loyal Listeners: ████████ 70%
-Community Connection: ███████████ 90%
-```
+<img src= "https://www.mermaidchart.com/raw/7d2cc4cd-6aaa-4131-9e59-d15fd4692dff?theme=light&version=v0.1&format=svg" alt="Podcast" width= "250">
+<img src="https://www.mermaidchart.com/raw/7d2cc4cd-6aaa-4131-9e59-d15fd4692dff?theme=light&version=v0.1&format=svg" alt="Podcast Structure Chart" width="450">
 
----
 
-## 2. Organizing Podcast Topics
 
 Proper organization ensures a smooth flow and helps keep listeners engaged. Below is a framework for planning and structuring podcast topics:
 
@@ -58,19 +52,7 @@ Proper organization ensures a smooth flow and helps keep listeners engaged. Belo
 
 #### Flow Chart: Podcast Episode Structure
 
-```plaintext
-[Introduction]
-     ↓
-[Personal Story or Hook]
-     ↓
-[Main Topic Discussion]
-     ↓
-[Expert/Guest Interview]
-     ↓
-[Listener Q&A or Feedback]
-     ↓
-[Call to Action & Conclusion]
-```
+<img src="https://www.mermaidchart.com/raw/384d05cb-cb74-4900-ba01-82324127c2bf?theme=light&version=v0.1&format=svg" alt="Podcast Structure Chart" width="450">
 
 ---
 
@@ -88,7 +70,4 @@ Proper organization ensures a smooth flow and helps keep listeners engaged. Belo
 2. **Encourage Listener Contributions**: Dedicate segments to community voices.
 3. **Experiment with Formats**: Alternate between interviews, solo episodes, and panel discussions.
 4. **Consistent Branding**: Use a recognizable podcast name, logo, and theme music.
-```
-### Flow Chart: Podcast Episode Structure
-<img src="https://www.mermaidchart.com/raw/384d05cb-cb74-4900-ba01-82324127c2bf?theme=light&version=v0.1&format=svg" alt="Podcast Structure Chart" width="450">
 
