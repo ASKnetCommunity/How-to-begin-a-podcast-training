@@ -31,7 +31,7 @@ By the end of this OER, learners will be able to:
 3. [Tools and Materials for Podcasting](Tools%20and%20Materials%20for%20Podcasting.md)
 4. [Creating Engaging Content](Creating%20engaging%20content.md)
 5. [ Podcast Example: Refugee Youth Podcast](The%20Refugee%20Youth%20Podcast:%20All%20you%20need%20to%20know.md)
----
+
 
 ## **Resource Example**
 An example of a successful community podcast might be one that focuses on stories of resilience, growth and impact including entertaining the public with educative and informative content. The podcast could highlight positive stories and community-driven projects, helping to connect people with local resources and opportunities.
