@@ -77,7 +77,7 @@ An example of a successful community podcast might be one that focuses on storie
 
 |BMZ  |r0g agency|ASKnet| YEF |
 |:----:|:-------:|:-----|:----:|
-|![](Images/founder_BMZ.jpg)|![](Images/r0g_logo.png)|![](Images/asknet-logo.png)|![](Images/yef-logo.jpeg)|
+|![](https://github.com/user-attachments/assets/17518a0e-f578-4495-9ae8-337ace924a97)|![](https://github.com/user-attachments/assets/0231e9b8-280f-47a8-80c3-0fee49189b74)|![](https://github.com/user-attachments/assets/b523d4b2-36b1-4939-bf10-f50eeceb80e5)|![](https://github.com/user-attachments/assets/78f2244d-fe4a-431a-b3af-eeecf020266f)|
 |[Official website](https://www.bmz.de/en)|[Official website](https://openculture.agency/)|[Official website](https://github.com/ASKnet-Open-Training)|[Official website](https://yef-uganda.org/)|
 
 ## **Credit**  
@@ -86,6 +86,8 @@ This training was implemented by Youth Empowerment Foundation in collaboration w
 
 
 
+
+![image](https://github.com/user-attachments/assets/b523d4b2-36b1-4939-bf10-f50eeceb80e5)
 
 
 
