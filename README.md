@@ -85,10 +85,9 @@ This OER is a template created by the Youth Empowerment Foundation Under the ASK
 This training was implemented by Youth Empowerment Foundation in collaboration with Creative Innovative Center (CIC). This project is supported by r0g agency Germany.
 This documentation was done by 
 [Amoko Joseph](https://lead.asknet.community/profiles/Amoko-Joseph/)
-[Vuga William](https://lead.asknet.community/profiles/Amoko-Joseph/)
+[Vuga William](https://lead.asknet.community/profiles/Vuga-William/)
 [Lokuju Morish](https://www.facebook.com/search/top?q=maurice%20lokuju%20dario )
 
-https://lead.asknet.community/profiles/Amoko-Joseph/ 
 
 
 ![image](https://github.com/user-attachments/assets/b523d4b2-36b1-4939-bf10-f50eeceb80e5)
