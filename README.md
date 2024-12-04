@@ -31,6 +31,7 @@ By the end of this OER, learners will be able to:
 3. [Tools and Materials for Podcasting](Tools_and_Materials_for_Podcasting.md)  
 4. [Creating Engaging Content](Creating_engaging_content.md)  
 5. [The Refugee Youth Podcast: All you need to know](The_Refugee_Youth_Podcast.md)
+6. [RYP podcasts](RYP_podcast_series.md)
 
 
 
